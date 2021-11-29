@@ -9,7 +9,7 @@
       <div
         class="post-thumbnail"
         :style="{backgroundImage: 'url(' + loadedPost.thumbnail + ')'}"></div>
-      <p class="post-content">Leírás:<br></br> {{loadedPost.content}}</p>
+      <p class="post-content">Leírás:<br> </br>{{loadedPost.content}}</p>
 
       <p class="post-previewText">{{loadedPost.previewText}}</p>
     
