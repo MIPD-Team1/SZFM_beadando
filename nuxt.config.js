@@ -54,7 +54,7 @@ export default {
   build: {
   },
   router:{
-    middleware: 'log'
+    
   }
   
 }
